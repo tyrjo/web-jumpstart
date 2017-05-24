@@ -2,4 +2,4 @@
 
 A simple project to experiment with web technologies
 
-* [https://webpack.js.org/guides/hmr-react/](Hot module reloading React)
+* [Hot module reloading React](https://webpack.js.org/guides/hmr-react/)
